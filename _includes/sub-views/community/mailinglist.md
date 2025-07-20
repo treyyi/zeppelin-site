@@ -30,9 +30,11 @@ for people wanting to contribute to the project.
 * __[Commits](https://lists.apache.org/list.html?commits@zeppelin.apache.org) :__ [subscribe](mailto:commits-subscribe@zeppelin.apache.org?subject=send this email to subscribe), [unsubscribe](mailto:commits-unsubscribe@zeppelin.apache.org?subject=send this email to unsubscribe), [archives](https://lists.apache.org/list.html?commits@zeppelin.apache.org)
 <br/>
 for commit messages and patches.
+* __[Reviews](https://lists.apache.org/list.html?reviews@zeppelin.apache.org) :__ [subscribe](mailto:reviews-subscribe@zeppelin.apache.org?subject=send this email to subscribe), [unsubscribe](mailto:reviews-unsubscribe@zeppelin.apache.org?subject=send this email to unsubscribe), [archives](https://lists.apache.org/list.html?reviews@zeppelin.apache.org)
+<br/>
+for code review discussions and comments.
 
 
 ### Slack channel
 
 We also have an asf slack channel for Zeppelin, but it is not public, you can send email to the above user mail list to ask for invitation.
-
